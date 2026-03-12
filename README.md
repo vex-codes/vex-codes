@@ -21,6 +21,8 @@
 
 
 ## 🛠️ Languages & Tools
+
+> ## Programming Language
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" / >
 
 > ## Tools
